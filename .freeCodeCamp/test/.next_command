@@ -54,3 +54,4 @@ touch script.sh
 chmod +x script.sh
 nano script.sh
 nano script.sh
+nano script.sh
