@@ -62,3 +62,6 @@ echo mayko
 ./script.sh 2> stderr.txt
 echo mayko
 echo mayko
+cat name.txt
+echo name.txt
+./script.sh < name.txt
