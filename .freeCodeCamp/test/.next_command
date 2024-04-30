@@ -51,3 +51,4 @@ cat < name.txt
 echo Mayko > cat
 echo Mayko
 touch script.sh
+chmod +x script.sh
