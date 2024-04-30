@@ -39,3 +39,5 @@ echo freecodecamp > name.txt
 echo freecodecamp > name.txt
 exho freeCodeCamp > name.txt
 echo freeCodeCamp > name.txt
+read < name.txt
+read NAME < name.txt
