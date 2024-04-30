@@ -44,3 +44,5 @@ read NAME < name.txt
 echo $NAME
 echo Mayko
 echo $NAME
+car
+cat
