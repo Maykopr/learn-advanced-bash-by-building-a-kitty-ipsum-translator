@@ -108,3 +108,18 @@ wc -m < kitty_ipsum_1.txt >> kitty_info.txt
 grep 'meow' kitty_ipsum_1.txt
 man grep
 grep --color 'meow' kitty_ipsum_1.txt
+grep --color 'meow' kitty_ipsum_1.txt
+man grep
+grep --color -b 'meow' kitty_ipsum_1.txt
+grep --color -b 'meow' kitty_ipsum_1.txt
+grep --color -B 'meow' kitty_ipsum_1.txt
+grep --color -B 3 'meow' kitty_ipsum_1.txt
+grep --color -b 'meow' kitty_ipsum_1.txt
+grep -b --color 'meow' kitty_ipsum_1.txt
+grep -b 'meow' kitty_ipsum_1.txt
+grep -b --color 'meow' kitty_ipsum_1.txt
+man grep > manual_grep.txt
+grep -m --color 'meow' kitty_ipsum_1.txt
+grep -l --color 'meow' kitty_ipsum_1.txt
+grep -L --color 'meow' kitty_ipsum_1.txt
+grep -n --color 'meow' kitty_ipsum_1.txt
