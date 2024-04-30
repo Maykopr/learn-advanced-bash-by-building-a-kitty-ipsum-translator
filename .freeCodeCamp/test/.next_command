@@ -52,3 +52,4 @@ echo Mayko > cat
 echo Mayko
 touch script.sh
 chmod +x script.sh
+nano script.sh
