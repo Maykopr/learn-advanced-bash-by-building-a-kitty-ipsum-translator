@@ -46,3 +46,4 @@ echo Mayko
 echo $NAME
 car
 cat
+cat name.txt
