@@ -210,3 +210,12 @@ git status
 git add .
 git status
 git add .
+git status
+git commit -m 'adding git manualy'
+git remote add origin https://github.com/Maykopr/freeCodeCamp_Learn_Bash_Building_a_Kitty_Ipsum_Translator.git
+git remote -v
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/Maykopr/freeCodeCamp_Learn_Bash_Building_a_Kitty_Ipsum_Translator.git
+git push
+git push -u origin main
