@@ -100,3 +100,8 @@ cat kitty_ipsum_1.txt
 cat kitty_ipsum_1.txt
 clear
 echo -e "\nNumber of characters:" >> kitty_info.txt
+wc -m kitty_ipsum_1.txt < cat
+wc -m kitty_ipsum_1.txt < cat >> kitty_info.txt
+wc -m y_ipsum_1.txt < cat >> kitty_info.txt
+wc -m < kitty_ipsum_1.txt
+wc -m < kitty_ipsum_1.txt >> kitty_info.txt
