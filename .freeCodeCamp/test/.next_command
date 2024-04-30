@@ -41,3 +41,4 @@ exho freeCodeCamp > name.txt
 echo freeCodeCamp > name.txt
 read < name.txt
 read NAME < name.txt
+echo $NAME
